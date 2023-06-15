@@ -3,7 +3,7 @@ from datetime import datetime
 
 
 USERNAME = "azetxxx"
-TOKEN = "iFAM16nCa5ip-"
+TOKEN = ""
 GRAPH_ID = "graph-python"
 
 headers = {
